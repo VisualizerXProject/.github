@@ -1,3 +1,10 @@
 # VisualizerX Project
 
-This is The Lyrics and Visualizer Video Maker Project That Target Is Extreme Effecting And Lyric Visualizer Video Or Showcasing VFX Skills
+This is The Lyrics and Visualizer Video Maker Project 
+
+# Current Roadmap
+## Roadmap 1
+- [ ] (Core) Load Audio
+- [ ] (Core) EQ / Audio Tracks
+- [ ] (GUI) Main Menu & EQ
+- [ ] (Website) Landing Page
