@@ -1,6 +1,6 @@
 # VisualizerX Project
 
-This is The Lyrics and Visualizer Video Maker Project 
+This is The Lyrics and Visualizer Video Maker Project Or VFX Toolkit
 
 # Current Roadmap
 ## Roadmap 1
